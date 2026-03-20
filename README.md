@@ -90,7 +90,8 @@ end
 
 ---
 ## Output Waveform
-
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b1161ebc-20c6-455e-8b84-4afe4aba94b9" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0f2bb42c-b9a6-4b4a-9299-588426e20c45" />
 
 
 ## Result
